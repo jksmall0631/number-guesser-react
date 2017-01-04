@@ -1,0 +1,47 @@
+body{
+  background-color: pink;
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 34px;
+}
+
+p{
+  font-size: 20px;
+}
+
+#application{
+  margin-top: 20%;
+}
+
+section{
+  margin: auto;
+  width: 50vh;
+  text-align: center;
+}
+
+.lastGuess{
+  height: 200px;
+}
+
+.input{
+  display: block;
+  width: 100%;
+  height: 30px;
+}
+
+.reset-game-button{
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
+
+button{
+  margin: 10px 5px 0 5px;
+}
+
+.display-number{
+  margin: 0;
+  font-size: 60px;
+}
