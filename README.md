@@ -1,31 +1,6 @@
-# React Starter Kit
+##Number Guesser in React
 
-To install the dependencies:
+Project created to assess our understanding of React fundamentals.
+Originally done in module 1 as our first project, we were tasked with rebuilding the application excluding styling.
 
-```
-npm install
-```
-
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/webpack-dev-server/` to run your application.
-* `http://localhost:8080/webpack-dev-server/test.html` to run your test suite in the browser.
-
-To build the static files:
-
-```js
-npm run build
-```
-
-
-To run tests in Node:
-
-```js
-npm test
-```
+[Assignment Rubric](http://frontend.turing.io/projects/number-guesser-in-react.html)
